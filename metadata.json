@@ -1,0 +1,6 @@
+{
+  "name": "EXP-VIKA",
+  "description": "One place for every transaction. Personal financial intelligence application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
